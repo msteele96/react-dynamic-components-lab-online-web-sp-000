@@ -2,11 +2,11 @@ import React, { Component } from 'react';
 
 export default class ColorBox extends Component {
 
-  state = {
-    todos: [
+  // state = {
+  //   todos: [
       
-    ]
-  }
+  //   ]
+  // }
 
   render() {
     return (
